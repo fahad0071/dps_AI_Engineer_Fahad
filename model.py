@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 import joblib
 
 file_path = 'new_updated_data.csv'
-data = pd.read_csv(file_path)
+data = pd.read_csv(r"/Users/fahadzahid/Downloads/dps/dev_deployment/dps_AI_Engineer_Fahad/transformed.csv")
 # Create DataFrame
 df = pd.DataFrame(data)
 
