@@ -1,6 +1,6 @@
 # DPS AI Engineer TASK (FAHAD ZAHID)
 
-## Explored data and Preprocced the data using Pandas
+1. ## Explored data and Preprocced the data using Pandas
 
 ## Created Visualizations using Matplotlib and seaborn
 
