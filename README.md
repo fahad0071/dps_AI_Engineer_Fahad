@@ -43,9 +43,11 @@
 - Retrieve the public URL of your deployed app
 - Verify the Deployment
 
-## Validate using postman
+## Validate using Postman
 
-Sample Input:
+## Example
+
+#### Sample Input:
 {
     "Category": "Fluchtunfälle",
     "Type": "insgesamt",
@@ -53,7 +55,7 @@ Sample Input:
     "Month": "06"
 }
 
-Sample Return:
+#### Sample Return:
 
 {
     "Category": "Fluchtunfälle",
@@ -63,5 +65,5 @@ Sample Return:
 }
 
 
-I thoroughly enjoyed working on this task; it was a great way to brush up on concepts.
+## I thoroughly enjoyed working on this task; it was a great way to brush up on concepts.
 
