@@ -1,14 +1,20 @@
 # DPS AI Engineer TASK (FAHAD ZAHID)
 
-1. ## Explored data and Preprocced the data using Pandas
 
-## Created Visualizations using Matplotlib and seaborn
+## Step 1:
+- Explored data and Preprocced the data using Pandas
 
-## Created Machine Learning Model(Random Forrest Regressor)
+## Step 2: 
+- Created Visualizations using Matplotlib and seaborn
 
-## R2 score and MSE for evaluation
+## Step 3:
+- Created Machine Learning Model(Random Forrest Regressor)
+- R2 score and MSE for evaluation
+
 
 ## For deployment:
+
+
 ### Created a flask app:
 - Load pre-trained Random Forest model (random_forest_model.pkl) and two label encoders (label_encoder_monatszahl.pkl and label_encoder_auspraegung.pkl)
 
