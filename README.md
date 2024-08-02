@@ -2,7 +2,7 @@
 
 
 ## Step 1:
-- Explored data and Preprocced the data using Pandas
+- Explored data and Preprocessed the data using Pandas
 
 ## Step 2: 
 - Created Visualizations using Matplotlib and seaborn
